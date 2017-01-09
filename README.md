@@ -2,7 +2,7 @@
 Wifi Pineapple scanner
 
 A scanner to enumerate used modules in Wifi Pineapple and to brute force log files for them. Downloads the log files automaticly.
-
+<pre>
 ================================================================================
  __      __  .__  __________
 /  \    /  \ |__| \______   \ ____
@@ -19,4 +19,4 @@ A scanner to enumerate used modules in Wifi Pineapple and to brute force log fil
 ================================================================================
 Usage: wexploit.py <IP and port> <time backwards in hours>
 e.g.:  wexploit.py 172.16.42.1:1471 2
-
+</pre>
